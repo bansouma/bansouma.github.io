@@ -1,17 +1,31 @@
-# Welcome to MkDocs
+# My profil
+* Hi 👋, I'm Alpha Bansouma Diallo
+* Student at Cite collegial Ottawa
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+- 🌱 I’m currently learning Web Development and It systeme
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- 📫 How to reach me **bansoumadiallo@gmail.com**
 
-## Project layout
+- ⚡ Fun fact :- Football and Music🎵 are the reasons to live.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alpha-diallo-133662240" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="adam pithewan" height="30" width="40" /></a>
+
+</p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bansouma&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+    alt="adam-pw" /></p>
+
+<br>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bansouma&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+      
+[bansouma](https://github.com/bansouma)
