@@ -10,5 +10,3 @@ Presentation de git
  5. Git chekout : Permet se deplacer entre les branches et avec [-b <nom branche>] 
  6. Git add     : Permet d'ajouter les fichier (modification)
  7. Git clone   : Vérifie les dêpot distant 
- 
- 
