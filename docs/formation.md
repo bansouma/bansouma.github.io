@@ -9,4 +9,5 @@ Presentation de git
  4. Git push    : Envoie les modifications a la branch main 
  5. Git chekout : Permet se deplacer entre les branches et avec [-b <nom branche>] 
  6. Git add     : Permet d'ajouter les fichier (modification)
- 7. Git clone   : Vérifie les dêpot distant 
+ 7. Git clone   : Vérifie les dêpot distant
+ 8. 
